@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NESTExportaDB", "NESTExportaDB.csproj", "{D313C654-C984-467D-AF42-85C7BBC10CE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BKPNest", "..\BKPNest\BKPNest.csproj", "{ECDE11D8-97DE-4AA9-A0DC-C119442E1EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D313C654-C984-467D-AF42-85C7BBC10CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D313C654-C984-467D-AF42-85C7BBC10CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D313C654-C984-467D-AF42-85C7BBC10CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D313C654-C984-467D-AF42-85C7BBC10CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDE11D8-97DE-4AA9-A0DC-C119442E1EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDE11D8-97DE-4AA9-A0DC-C119442E1EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDE11D8-97DE-4AA9-A0DC-C119442E1EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDE11D8-97DE-4AA9-A0DC-C119442E1EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A076172D-1575-4C90-8856-1C7D57F12CBF}
+	EndGlobalSection
+EndGlobal
