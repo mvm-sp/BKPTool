@@ -1,0 +1,1 @@
+﻿201.20.7.33|5890|postgres|TjYz3m|DES_NESTRIS|C:\NEST\BKP\DataBase\Scripts\
